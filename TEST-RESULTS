@@ -1,6 +1,7 @@
 Primer jedinicnog testa se nalazi u osnovnom direktorijumu u fajlu pod nazivom testExpression.java
 
 Zapazanja
+- Za nekoliko unetih izraza dobijeni su ocekivani rezultati, testiranje black box tehnikom
 - Postuje se prioritet aritmetickih operacija
 - Moguce je uneti i brojeve sa decimalnim zarezom
 - Nije moguce koristiti zagrade
