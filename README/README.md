@@ -1,10 +1,16 @@
 
 LOC - lines of code za zadati projekat je sledeci:
-fajl calculator.java ima 188 linija koda
-fajl Start.java ima 26 linija koda
-Ukupno LOC za projekat je 188+26 = 214 linija koda
+- Fajl calculator.java ima 188 linija koda
+- Fajl Start.java ima 26 linija koda
+- Ukupno LOC je 188+26 = 214 linija koda
 
-Radon
+Metoda evaluateExpression:
+- Cyclomaty complexity je 7
+- Cognitive complexity je 10
 
+Metoda Calculate:
+- Cyclomaty complexity je 4
+- Cognitive complexity je 11
 
-Kognitivna
+Napomena: Metrike su dobijene rucno, u prilogu su fajlovi Calculate_01.png Calculate_02.png i evaluateExpression_01.png u kojim je prikazano kako su dobijene navedene metrike.
+
